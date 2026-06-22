@@ -1,0 +1,329 @@
+{
+  "business": {
+    "name": "AOCO Locksmiths LLC",
+    "shortName": "AOCO Locksmiths",
+    "tagline": "Your Trusted Irving Locksmith – Fast, Reliable, and Professional",
+    "niche": "Locksmith",
+    "phone": "(972) 579-9770",
+    "address": "1140 W Pioneer Dr, Irving, TX 75061",
+    "city": "Irving, TX",
+    "hours": "Mon-Sun: 24/7",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "AOCO Locksmiths LLC | 24/7 Emergency Locksmith in Irving, TX",
+    "description": "AOCO Locksmiths LLC offers 24/7 emergency locksmith services in Irving, TX. From lockouts to key duplication, our experts provide fast, reliable solutions. Call (972) 579-9770 now."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "24/7 Emergency Locksmith in Irving, TX",
+      "headline": "Your Security Is Our Priority – Fast, Reliable Locksmith Services",
+      "subheadline": "Whether you're locked out of your home, car, or office, AOCO Locksmiths LLC is here to help. We respond quickly with professional service you can trust.",
+      "primaryCta": "Call (972) 579-9770",
+      "secondaryCta": "Get a Free Quote"
+    },
+    "stats": [
+      {
+        "value": "4.5",
+        "label": "Average Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "24/7",
+        "label": "Emergency Service"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Locksmith",
+        "title": "Protect Your Home and Family",
+        "body": "We offer a full range of residential locksmith services to keep your home secure. From rekeying locks to installing high-security deadbolts, our technicians ensure your peace of mind.",
+        "bullets": [
+          "Lockout assistance – get back inside quickly",
+          "Rekeying and lock replacement",
+          "Smart lock installation for modern security",
+          "24/7 emergency service – we're always available"
+        ],
+        "reverse": false,
+        "cardLabel": "Trusted by Homeowners",
+        "cardTitle": "Rekeying Services",
+        "cardBody": "Change your locks without replacing them. Our rekeying service is affordable and effective."
+      },
+      {
+        "eyebrow": "Commercial Locksmith",
+        "title": "Secure Your Business Premises",
+        "body": "We understand the importance of business security. Our commercial locksmith services are designed to protect your assets and employees with robust access control systems.",
+        "bullets": [
+          "Master key systems for easy access management",
+          "High-security locks and panic bars",
+          "Access control installation and maintenance",
+          "Emergency lockout service for businesses"
+        ],
+        "reverse": true,
+        "cardLabel": "Business Security",
+        "cardTitle": "Access Control Systems",
+        "cardBody": "Control who enters your building with keyless entry and card access systems."
+      }
+    ],
+    "whyTitle": "Why Choose AOCO Locksmiths?",
+    "whyChooseUs": [
+      {
+        "title": "Fast Response Times",
+        "description": "We know emergencies don't wait. Our technicians arrive promptly to resolve your lock issues."
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "All our locksmiths are fully licensed and insured, giving you confidence in our work."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprises. We provide upfront quotes before any work begins."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our services with a 100% satisfaction guarantee. If you're not happy, we'll make it right."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was locked out of my house late at night and AOCO arrived within 20 minutes. Professional and friendly service at a fair price.",
+        "author": "Sarah M.",
+        "role": "Homeowner, Irving"
+      },
+      {
+        "quote": "Needed new locks for my office after a break-in. The team installed high-security locks and gave me peace of mind. Highly recommend!",
+        "author": "James T.",
+        "role": "Business Owner, Las Colinas"
+      },
+      {
+        "quote": "Great experience with car lockout. They were quick, careful with my car, and the price was reasonable. Will use again.",
+        "author": "Maria G.",
+        "role": "Irving Resident"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Secure Your Property?",
+      "subheadline": "Contact us today for a free quote or emergency service.",
+      "primaryCta": "Call (972) 579-9770",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At AOCO Locksmiths LLC, we offer a comprehensive range of locksmith services in Irving, TX. Our skilled technicians are equipped to handle residential, commercial, and automotive needs. Whether it's an emergency lockout or a security upgrade, we deliver prompt, professional service."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Residential Locksmith",
+      "shortDescription": "Home lockouts, rekeying, lock installation, and more.",
+      "longDescription": "Your home's security is our top priority. We provide a full suite of residential locksmith services to protect your family and belongings. From emergency lockouts to upgrading your locks with smart technology, we have you covered.",
+      "benefits": [
+        "24/7 emergency lockout assistance",
+        "Professional rekeying and lock replacement",
+        "Smart lock installation for keyless entry",
+        "Enhanced security with high-quality deadbolts"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current locks and security needs."
+        },
+        {
+          "title": "Recommendation",
+          "description": "We suggest the best solutions for your home and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our technician installs your new locks or rekeys existing ones efficiently."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does it cost to rekey a lock?",
+          "answer": "Rekeying costs vary but typically range from $15 to $30 per lock, plus a service call fee. We provide a free quote upfront."
+        },
+        {
+          "question": "Do you install smart locks?",
+          "answer": "Yes, we install a variety of smart locks including keypad and Bluetooth-enabled models. Contact us for options."
+        }
+      ],
+      "slug": "residential-locksmith"
+    },
+    {
+      "icon": "02",
+      "title": "Commercial Locksmith",
+      "shortDescription": "Access control, master key systems, and high-security locks.",
+      "longDescription": "Protect your business with our commercial locksmith services. We design and install security systems tailored to your commercial property, from small offices to large facilities. Our solutions improve safety and streamline access for employees.",
+      "benefits": [
+        "Master key systems for simplified access",
+        "High-security locks and panic bars",
+        "Access control systems (card, keypad, biometric)",
+        "Emergency lockout service for businesses"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your security needs and conduct a site survey."
+        },
+        {
+          "title": "Design",
+          "description": "We create a customized security plan that fits your business."
+        },
+        {
+          "title": "Implementation",
+          "description": "Our team installs the system and provides training for your staff."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you create a master key system for my office?",
+          "answer": "Absolutely. We design master key systems that allow different access levels for employees while giving you full control."
+        },
+        {
+          "question": "Do you offer access control installation?",
+          "answer": "Yes, we install keypad, card, and biometric access control systems to enhance your business security."
+        }
+      ],
+      "slug": "commercial-locksmith"
+    },
+    {
+      "icon": "03",
+      "title": "Automotive Locksmith",
+      "shortDescription": "Car lockouts, key replacement, and ignition repair.",
+      "longDescription": "Locked out of your car? Lost your keys? Our automotive locksmiths can help you get back on the road quickly. We work with all makes and models, including modern vehicles with transponder keys and smart fobs.",
+      "benefits": [
+        "24/7 car lockout assistance",
+        "Key replacement and duplication",
+        "Transponder key programming",
+        "Ignition repair and replacement"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We identify the issue, whether it's a broken key, lockout, or ignition problem."
+        },
+        {
+          "title": "Solution",
+          "description": "We provide the best solution, such as key cutting or lock manipulation."
+        },
+        {
+          "title": "Resolution",
+          "description": "We complete the service efficiently, ensuring your vehicle is secure and functional."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you make a key for my car if I lost all keys?",
+          "answer": "Yes, we can create a new key for most vehicles using the VIN or lock decoding. Contact us for assistance."
+        },
+        {
+          "question": "Do you program transponder keys?",
+          "answer": "Yes, we have the equipment to program transponder chips and smart keys for a wide range of vehicles."
+        }
+      ],
+      "slug": "automotive-locksmith"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Locksmith",
+      "shortDescription": "24/7 rapid response for lockouts and security emergencies.",
+      "longDescription": "Emergencies don't follow a schedule. That's why AOCO Locksmiths offers round-the-clock emergency services. Whether you're locked out of your home, car, or business, we'll dispatch a technician to your location promptly.",
+      "benefits": [
+        "24/7 availability, including holidays",
+        "Fast response – typically within 30 minutes",
+        "All types of lockouts (home, car, office)",
+        "No extra charge for after-hours calls"
+      ],
+      "process": [
+        {
+          "title": "Call Us",
+          "description": "Dial (972) 579-9770 and provide your location and issue."
+        },
+        {
+          "title": "Dispatch",
+          "description": "We send the nearest technician to your location immediately."
+        },
+        {
+          "title": "Service",
+          "description": "Our technician resolves your lockout quickly and safely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How fast can you get to me in an emergency?",
+          "answer": "We strive to arrive within 20-30 minutes in the Irving area. Response time may vary based on traffic and distance."
+        },
+        {
+          "question": "Is there an extra charge for emergency service?",
+          "answer": "No, we do not charge extra for emergency calls. Our pricing is transparent and upfront."
+        }
+      ],
+      "slug": "emergency-locksmith"
+    }
+  ],
+  "about": {
+    "headline": "About AOCO Locksmiths LLC",
+    "mission": "Our mission is to provide Irving residents and businesses with fast, reliable, and affordable locksmith services. We are committed to excellence and customer satisfaction.",
+    "story": [
+      "AOCO Locksmiths LLC was founded with the goal of bringing trustworthy locksmith services to the Irving community. With over 15 years of combined experience, our team has the expertise to handle any lock or security challenge. We started small, focusing on residential calls, and grew through word-of-mouth referrals by consistently delivering quality work and fair prices.",
+      "Today, we serve homeowners, businesses, and car owners throughout the Dallas-Fort Worth metroplex. Our technicians are trained on the latest security technologies and carry a wide range of parts to ensure fast, on-the-spot solutions. We pride ourselves on being a local, family-owned business that treats every customer like a neighbor."
+    ],
+    "highlight": {
+      "stat": "4.5",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We believe in honest, transparent service. No hidden fees, no upsells."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up on time and get the job done right the first time."
+      },
+      {
+        "title": "Expertise",
+        "description": "Our technicians are continuously trained on the latest locksmith techniques and technologies."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our top priority. We listen to your needs and tailor solutions accordingly."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Contact AOCO Locksmiths LLC",
+    "subheadline": "We're here to help 24/7. Call or fill out the form for a free quote.",
+    "primaryCta": "Call (972) 579-9770",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Irving, TX",
+      "Las Colinas",
+      "Valley Ranch",
+      "Coppell",
+      "Dallas",
+      "Fort Worth",
+      "Arlington"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.5,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Locksmith",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9725799770",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
